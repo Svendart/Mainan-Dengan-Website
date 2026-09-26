@@ -1,0 +1,91 @@
+* {
+    font-family         : 'Courier New', Courier, monospace;
+    background-color    : #15023a;
+    color               : #ff007f;
+    letter-spacing      : 2px;
+    margin-left         : 10px;
+    margin-right        : 10px;
+    
+
+}
+
+
+header {
+    text-align          : center ;
+    font-size           : 2rem;
+    margin-bottom       : 80px;
+
+.fotoku {
+    width: 250px;
+    height: 250px;
+    border: 3px solid #06a4ff;
+    border-radius: 10px;
+
+
+
+}
+
+h1 {
+    color               : #06a4ff ;
+    text-shadow         : 0 0 20px #06a4ff;
+    margin-bottom       : 100px;
+
+}
+
+h3 {
+    text-align          : center;
+
+}
+
+}
+
+.box-diriku {
+    border              : 3px dashed #e4b90b ;
+    border-radius       : 6px ;
+    margin-bottom       : 100px;
+
+.about-me {
+    color               : #06a4ff;
+    font-size           : 42px ;
+}
+
+.kalimat-sapa {
+    font-size           : 25px;
+    padding             : 34px;
+    text-align: justify;
+
+}
+
+/* .keunikanku {
+
+}
+
+.keunikanku2 {
+
+}
+
+.pikiranku {
+
+} */
+
+}
+
+
+
+
+
+
+
+
+
+.kepoin {
+    display: block;
+    margin: auto;
+    gap : 15px
+}
+
+
+
+
+
+
